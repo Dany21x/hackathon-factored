@@ -14,6 +14,19 @@ uv run ruff check .
 uv run ruff format --check .
 ```
 
+## Local Frontend Development
+
+From the frontend directory:
+
+```bash
+cd banking-system/frontend
+npm install
+npm run dev
+npm run lint
+npm run typecheck
+npm run build
+```
+
 ## Configuration
 
 Do not store secrets in `.env` files or source control.
