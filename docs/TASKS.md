@@ -13,7 +13,7 @@
 
 ## Phase 1 — AWS Development Foundation
 
-- [ ] Initialize AWS CDK project
+- [ ] Initialize AWS CDK Python project
 - [ ] Define `dev` environment configuration
 - [ ] Create initial Foundation stack
 - [ ] Create required Secrets Manager resources

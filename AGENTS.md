@@ -115,6 +115,11 @@ Infrastructure code lives under:
 
 `banking-system/infrastructure/`
 
+Use AWS CDK with Python for infrastructure code.
+
+The CDK app under `banking-system/infrastructure/` should use Python 3.13
+and `uv` unless a specific CDK limitation requires otherwise.
+
 Avoid manually creating resources through the AWS Console when they can
 reasonably be managed through CDK.
 

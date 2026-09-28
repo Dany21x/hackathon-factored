@@ -167,6 +167,8 @@ AWS infrastructure is managed using AWS CDK under:
 
 `banking-system/infrastructure/`
 
+The infrastructure project uses AWS CDK with Python.
+
 Infrastructure is introduced incrementally as required.
 
 Initial infrastructure should focus on:
