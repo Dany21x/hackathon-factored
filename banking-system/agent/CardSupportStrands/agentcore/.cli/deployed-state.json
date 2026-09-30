@@ -1,3 +1,17 @@
 {
-  "targets": {}
+  "targets": {
+    "default": {
+      "resources": {
+        "runtimes": {
+          "CardSupportAgent": {
+            "runtimeId": "CardSupportStrands_CardSupportAgent-GKt06oGWtr",
+            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:154586926735:runtime/CardSupportStrands_CardSupportAgent-GKt06oGWtr",
+            "roleArn": "arn:aws:iam::154586926735:role/AgentCore-CardSupportStra-ApplicationAgentCardSuppo-nhfdYcrV2wfL"
+          }
+        },
+        "stackName": "AgentCore-CardSupportStrands-default",
+        "deployHash": "cd8ec847cb2ba0eb"
+      }
+    }
+  }
 }
